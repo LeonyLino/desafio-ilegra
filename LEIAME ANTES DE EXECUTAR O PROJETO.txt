@@ -1,0 +1,8 @@
+Deixando alguns pontos de atenção caso eu nao tenha compreendido por completo o funcionamento solicitado no pdf
+
+	• Inserir no arquivo "application.properties" duas chaves para inserir o endereço para os arquivo de entrada e saida da sua maquina local.
+		HOMEPATH.IN = % HOMEPATH% / data / in
+		HOMEPATH.OUT = % HOMEPATH% / data / out
+
+	
+	• Configurei também o swagger "http://localhost:8080/desafio-ilegra/swagger-ui.html#/" pra de la poder chamar a o função que faz toda analise dos arquivos do diretorio informado.
