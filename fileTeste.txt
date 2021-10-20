@@ -1,0 +1,1 @@
+Relatório• Quantidade de clientes no arquivo de entrada• Quantidade de vendedor no arquivo de entrada• ID da venda mais cara• Pior vendedor de todos os tempos
